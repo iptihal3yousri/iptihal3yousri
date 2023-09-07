@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iptihal3yousri&label=Profile%20views&color=0e75b6&style=flat" alt="iptihal3yousri" /> </p>
 
-- 🔭 I’m currently working on **ML project to predict popular songs**
+- 🔭 I’m currently working on **Data scientist with sparks**
 
 - 🌱 I’m currently learning **computer vision**
 
