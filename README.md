@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm iptihal yousri</h1>
 <h3 align="center">A passionate AI Engineer from Egypt</h3>
-<img align="right" alt="Coding" width="100" src="https://github.com/iptihal3yousri/iptihal3yousri/blob/main/img/000.jpg" >
+<img align="right" alt="Coding" width="200" src="https://github.com/iptihal3yousri/iptihal3yousri/blob/main/img/000.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iptihal3yousri&label=Profile%20views&color=0e75b6&style=flat" alt="iptihal3yousri" width=150px /> </p>
 
