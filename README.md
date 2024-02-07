@@ -6,7 +6,9 @@
 
 - 🔭 I’m currently working on **Data science with sparks**
 
-- 🌱 I’m currently learning **computer vision**
+- 🔭 I’m currently working on **ML with CodaAlpha**
+
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **iptihal.yousri@gmail.com**
 
