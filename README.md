@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iptihal3yousri&label=Profile%20views&color=0e75b6&style=flat" alt="iptihal3yousri" width=150px /> </p>
 
-- 🔭 I’m currently working on **Data science with sparks**
+- 🔭 I’m currently working on **DEPI**
 
 - 🔭 I’m currently working on **ML with CodaAlpha**
 
